@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Revit_Addins_Bootcamp - Command 1</Text>
+    <Description>Some description for Revit_Addins_Bootcamp</Description>
+    <Assembly>Revit_Addins_Bootcamp.dll</Assembly>
+    <FullClassName>Revit_Addins_Bootcamp.Command1</FullClassName>
+    <ClientId>f2173385-14c9-4f1b-b63b-500f7b021304</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>Revit_Addins_Bootcamp - Command 2</Text>
+    <Description>Some description for Revit_Addins_Bootcamp</Description>
+    <Assembly>Revit_Addins_Bootcamp.dll</Assembly>
+    <FullClassName>Revit_Addins_Bootcamp.Command2</FullClassName>
+    <ClientId>52ed0683-a812-4972-9bf4-5817d1a99a7c</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+	<AddIn Type="Command">
+		<Text>Revit_Addins_Bootcamp - Module01Challenge</Text>
+		<Description>Some description for Revit_Addins_Bootcamp</Description>
+		<Assembly>Revit_Addins_Bootcamp.dll</Assembly>
+		<FullClassName>Revit_Addins_Bootcamp.Module01Challenge</FullClassName>
+		<ClientId>bc2bc260-0559-4a89-a2ab-8d649639e882</ClientId>
+		<VendorId>com.YOUR COMPANY NAME</VendorId>
+		<VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+	</AddIn>
+    <AddIn Type="Application">
+    <Name>Revit_Addins_Bootcamp</Name>
+    <Assembly>Revit_Addins_Bootcamp.dll</Assembly>
+    <FullClassName>Revit_Addins_Bootcamp.App</FullClassName>
+    <ClientId>09556a02-f863-4268-8546-51b93383dd01</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
